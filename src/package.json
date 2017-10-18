@@ -1,0 +1,29 @@
+{
+  "name": "ng4-graph",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjayankoti/ng4-graph.git"
+  },
+  "author": {
+    "name": "Sanjay Kumar Singh",
+    "email": "as4flex@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjayankoti/ng4-graph.git/issues"
+  },
+  "main": "ng4-graph.umd.js",
+  "module": "ng4-graph.js",
+  "jsnext:main": "ng4-graph.js",
+  "typings": "ng4-graph.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "jquery": "^3.1.1",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
