@@ -25,7 +25,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import your library
-import { GraphModule } from 'ng4-graph';
+import { Ng4GraphModule } from 'ng4-graph';
 
 @NgModule({
   declarations: [
@@ -50,7 +50,7 @@ Once your library is imported, you can use its components, directives and pipes 
 <h1>
   {{title}}
 </h1>
-<GraphComponent></GraphComponent>
+<graph-component></graph-component>
 ```
 
 ## Development
